@@ -3,7 +3,7 @@ About MATLAB implementation demo for our revised  article: Fast Multiple Graphs 
 
 
 ### requirements
-- MATLAB R2018b
+- MATLAB R2020a
 
 ### run
 ```
